@@ -1,2 +1,2 @@
 # TNH
-Current, pending, discharges clients of TNH Peer Support Program
+TNH Workflow is a workspace for managing TNH Peer Support Program operations. It includes four custom agents to assist with program oversight, CRS documentation and census review, insurance verification, and dashboard documentation monitoring. The agents help organize information, draft materials, identify discrepancies, and recommend follow-up actions for Chris’s review. Final decisions, record approval, and signatures remain with authorized staff.
